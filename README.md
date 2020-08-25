@@ -37,10 +37,6 @@
 
 ---
 
-<img align="left" alt="Akash Patel Github Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iakashpatel"/>
-
-<img align="right" alt="akash patel's Github Stats" src="https://github-readme-stats.vercel.app/api?username=iakashpatel&show_icons=true&hide_border=true" />
-
 [website]: https://www.fdrs.tech
 [twitter]: https://twitter.com/iakashpatel
 [linkedin]: https://linkedin.com/in/akash-s-patel
