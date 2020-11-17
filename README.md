@@ -1,6 +1,6 @@
 ### Hi there, I'm Akash 👋
 
-## I'm a Developer, Digital Media Marketer and Avid Reader!
+## I'm a Developer and Avid Reader!
 - 🔭 I’m currently working with few silicon valley Startups!
 - 🌱 I’m currently learning everything I come across 🤣
 - 👯 I’m looking to collaborate with startups and Small/Mid scale businesses.
