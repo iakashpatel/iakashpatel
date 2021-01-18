@@ -1,12 +1,3 @@
-### Hi there, I'm Akash 👋
-
-## I'm a Developer and Avid Reader!
-- 🔭 I’m currently working with few silicon valley Startups!
-- 🌱 I’m currently learning everything I come across 🤣
-- 👯 I’m looking to collaborate with startups and Small/Mid scale businesses.
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to Code and Learn Business processes.
-
 ### Connect with me:
 
 [<img align="left" alt="FDR Technologies India" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
