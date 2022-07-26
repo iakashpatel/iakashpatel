@@ -7,4 +7,4 @@
 
 [website]: https://www.fdrs.tech
 [twitter]: https://twitter.com/iakashpatel
-[linkedin]: https://linkedin.com/in/akash-s-patel
+[linkedin]: https://www.linkedin.com/in/akash-s-patel/
