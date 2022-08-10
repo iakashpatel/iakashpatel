@@ -2,13 +2,7 @@
 
 ## Full Stack Web Developer | ML Engineer | Web3 Developer | Software Engineer
 
-Enthusiastic engineer with over 5+ years of professional experience in web and web3 development. Passionate to grow and help teams across the globe.
-
-- 🌍 I'm based in Rajkot, India
-- ✉️ You can contact me at [akashneo3@gmail.com](mailto:akashneo3@gmail.com)
-- 🚀 I'm currently working on [Notivize](https://www.notivize.com)
-- 🧠 I'm learning in every walk of life
-- 🤝 I'm open to collaborate
+Enthusiastic engineer with over 5+ years of professional experience in web2 development and recently started exploring and learning about web3. Passionate to grow and help teams across the globe.
 
 <hr/>
 
