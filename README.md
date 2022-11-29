@@ -1,4 +1,4 @@
-# Hi 👋 My name is Akash Patel
+# Hi 👋 I am Akash
 
 ## Full Stack Web Developer | ML Engineer | Web3 Developer | Software Engineer
 
